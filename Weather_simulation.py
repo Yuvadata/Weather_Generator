@@ -15,7 +15,7 @@ from pprint import pprint
 from geopy.geocoders import Nominatim
 
 ## Declare API Key
-APIKey = "e0886416e801651caa3709e1799af846"
+APIKey = ##pass api key "e0886416e801651caa3709e1799af846"
 
 ## Declare variables
 Condition = ["Sunny","Rain"]
